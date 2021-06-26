@@ -80,8 +80,8 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                     )
                   ],
                   pause: Duration(milliseconds: 1000),
-                  // displayFullTextOnTap: true,
-                  // stopPauseOnTap: true,
+                  displayFullTextOnTap: true,
+                  stopPauseOnTap: true,
 
                 ),
               ],
